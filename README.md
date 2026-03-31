@@ -36,3 +36,5 @@ Durante a Análise Exploratória de Dados (EDA), respondemos a perguntas cruciai
 * `Sex`: Gênero (Male, Female, Both).
 * `Number of Deaths`: Número absoluto de mortes.
 * `Death Rate Per 100,000`: Taxa proporcional de mortes a cada 100 mil habitantes.
+
+[Link para o dataset]([https://www.tableau.com/learn/articles/free-public-data-sets](https://ghdx.healthdata.org/record/ihme-data/gbd-2010-mortality-results-1970-2010))
